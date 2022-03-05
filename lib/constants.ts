@@ -67,6 +67,10 @@ export const NAVIGATION = [
   {
     name: 'Jobs',
     route: '/jobs'
+  },
+  {
+    name: 'About',
+    route: '/about'
   }
 ];
 
